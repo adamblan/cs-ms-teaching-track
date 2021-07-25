@@ -5,17 +5,9 @@ search_enabled: false
 collections:
   - people
 # Default layouts for each collection type
-# defaults:
-#   - scope:
-#       path: ''
-#       type: people
-#     values:
-#       layout: person
-plugins:
-  - jekyll-datapage-generator
-page_gen:
-- data: 'people'
-  template: 'person'
-  name: 'name'
-  dir: 'people'
-  extension: 'html'
+defaults:
+  - scope:
+      path: ''
+      type: people
+    values:
+      layout: person

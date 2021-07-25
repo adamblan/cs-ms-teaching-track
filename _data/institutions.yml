@@ -1,15 +1,13 @@
 - institution: Texas A&M University
   titles: Instructional Professor, Professor of the Practice, Lecturer
 - institution: Ithaca College
-  titles: Instructor 
+  titles: Instructor
 - institution: Gannon University
   titles: Assistant / Associate / Full Professor
 - institution: Vanderbilt University
   titles: Associate Professor of the Practice
 - institution: University of Illinois at Chicago
-  titles: Clinical Assistant/Associate/Full Professor
-- institution: University of Illinois at Chicago
-  titles: Lecturer
+  titles: Clinical Assistant/Associate/Full Professor; Lecturer
 - institution: Clovis Community College (CA)
   titles: Instructor
 - institution: Otterbein University
@@ -17,14 +15,12 @@
 - institution: Stanford University
   titles: Lecturer
 - institution: University of Pennsylvania
-  titles: Assistant / Associate / Full Professor of the Practice
-- institution: University of Pennsylvania
-  titles: Lecturer
+  titles: Assistant / Associate / Full Professor of the Practice; Lecturer
 - institution: The University of Arizona
   titles: Lecturer
 - institution: University of Michigan
   titles: Lecturer
-- institution: University of Toronto Mississauga
+- institution: University of Toronto, Mississauga Campus
   titles: Assistant / Associate / Full Professor, Teaching Stream
 - institution: Colorado School of Mines
   titles: Teaching Assistant/Associate/Full Professor
@@ -34,16 +30,14 @@
   titles: Faculty Associate
 - institution: Kansas State University
   titles: Instructor
-- institution: University of Toronto, St George Campus
+- institution: University of Toronto, St. George Campus
   titles: Assistant / Associate / Full Professor, Teaching Stream
-- institution: USC (University of Southern California)
+- institution: University of Southern California
   titles: Lecturer
 - institution: North Carolina State University
   titles: Lecturer
 - institution: University of Oregon
   titles: Instructor
-- institution: University of Pennsylvania
-  titles: Lecturer
 - institution: UMass Amherst
   titles: Lecturer
 - institution: University of Washington
@@ -58,11 +52,11 @@
   titles: Lecturer
 - institution: Auburn Universituy
   titles: Lecturer
-- institution: UC San Diego
+- institution: University of California, San Diego
   titles: Lecturer
 - institution: University of Waterloo
   titles: Lecturer
 - institution: New York University
-  titles: Assistant / Associate / Full Clinical Professor 
+  titles: Assistant / Associate / Full Clinical Professor
 - institution: Boston University
   titles: Lecturer
