@@ -1,0 +1,64 @@
+---
+layout: default
+nav_exclude: true
+---
+
+<div class="staffer">
+  {% if page.photo %}
+  <img class="staffer-image" src="{{ page.photo }}" alt="">
+  {% endif %}
+  <div>
+    <h1 class="staffer-name">
+      {{page.title}}
+      <!-- {% if page.website %}
+      <a href="{{ page.website }}">{{page.title}}</a>
+      {% else %}
+
+      {% endif %} -->
+      {% if page.pronouns %}
+      <span class="staffer-pronouns">{{ page.pronouns }}</span>
+      {% endif %}
+    </h1>
+    <p><b>{{ page.role }}, {{ page.department }}</b></p>
+    <p>{{ page.institution }}</p>
+    <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+
+    <p>
+    {% if page.website %}
+    <a href="{{ page.website }}">Personal Website</a>
+    {% endif %}
+
+    {% if page.appmaterials %}
+    • <a href="{{ page.appmaterials }}">Application Materials</a>
+    {% endif %}
+    </p>
+  </div>
+</div>
+<h2>Background</h2>
+
+<h3>Education</h3>
+{{page.education}}
+
+<h3>Why Teaching?</h3>
+{{page.motivation}}
+
+<h3>Career Path</h3>
+{{page.careerpath}}
+
+<h3>Recommendations to Others</h3>
+{{page.recommendations}}
+
+<h2>Position Details</h2>
+
+<h3>Contract/Tenure</h3>
+{{page.contract}}
+<br>
+<h3>Courses</h3>
+{{page.courses}}
+<br>
+<h3>Service</h3>
+{{page.service}}
+<br>
+<h3>Research</h3>
+{{page.research}}
+<br>

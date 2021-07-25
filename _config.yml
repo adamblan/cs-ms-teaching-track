@@ -1,3 +1,21 @@
 title: "CS Teaching Track without a Ph.D"
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
+collections:
+  - people
+# Default layouts for each collection type
+# defaults:
+#   - scope:
+#       path: ''
+#       type: people
+#     values:
+#       layout: person
+plugins:
+  - jekyll-datapage-generator
+page_gen:
+- data: 'people'
+  template: 'person'
+  name: 'name'
+  dir: 'people'
+  extension: 'html'
