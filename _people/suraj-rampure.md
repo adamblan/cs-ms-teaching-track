@@ -1,7 +1,7 @@
 ---
 name: Suraj Rampure
 pronouns: he/him
-photo: https://rampure.org/assets/me.png
+photo: https://rampure.org/assets/me-2023-new.png
 role: Lecturer
 department: Halıcıoğlu Data Science Institute
 institution: University of California, San Diego
