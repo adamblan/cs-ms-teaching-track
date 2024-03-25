@@ -1,7 +1,7 @@
 ---
 name: Kevin Lin
 pronouns: he/him
-photo: https://kevinl.info/assets/images/kevin.jpg
+photo: https://kevinl.info/assets/images/kevin.webp
 role: Assistant Teaching Professor
 department: Computer Science and Engineering
 institution: University of Washington
