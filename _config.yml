@@ -1,5 +1,5 @@
 title: "CS Teaching Track without a Ph.D"
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 search_enabled: false
 collections:
