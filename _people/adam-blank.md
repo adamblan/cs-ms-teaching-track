@@ -5,6 +5,7 @@ photo: https://pictures-cdn.vyte.in/30weezmbxyyilail9rew.jpg
 role: Teaching Professor
 department: Computing + Mathematical Sciences
 institution: California Institute of Technology
+term-type: Qtr
 email: blank@caltech.edu
 website: https://countablethoughts.com
 education: MS in Computer Science (2014), CMU<br>BS in Computer Science (2012), CMU
@@ -17,7 +18,7 @@ college-service:
 research:
 recommendation:
 developed-interest:
-career-path:
+academic-path:
 last-updated: 2021
 appmaterials: 
 ---

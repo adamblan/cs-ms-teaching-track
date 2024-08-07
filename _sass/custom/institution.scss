@@ -1,0 +1,18 @@
+.institution {
+  display: flex;
+  margin: $sp-4;
+
+  p,
+  .institution-name {
+    margin: $sp-1 !important;
+  }
+
+  .institution-location {
+    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+    text-transform: none !important;
+  }
+
+  .institution-meta {
+    @extend .text-grey-dk-000;
+  }
+}

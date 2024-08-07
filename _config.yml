@@ -4,6 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 search_enabled: false
 collections:
   - people
+  - career-path
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -11,3 +12,11 @@ defaults:
       type: people
     values:
       layout: person
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: blue

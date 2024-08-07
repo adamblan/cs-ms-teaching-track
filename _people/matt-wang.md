@@ -5,6 +5,7 @@ photo: https://mattx.wang/img/matt.png
 role: Assistant Teaching Professor
 department: Computer Science & Engineering
 institution: University of Washington
+term-type: Qtr
 email: mxw@cs.washington.edu
 website: https://mattx.wang
 education: M.S. in Computer Science from the University of California, Los Angeles
@@ -17,7 +18,7 @@ college-service:
 research:
 recommendation: Build up as much teaching experience as possible, even if it's informal (i.e. not as the instructor of record or as a TA, or specific to CS). Anything counts - especially if you can reflect on how those skills would (and would not) transfer towards teaching CS!
 developed-interest: 
-career-path:
+academic-path:
 last-updated: 2024
 appmaterials: 
 ---
