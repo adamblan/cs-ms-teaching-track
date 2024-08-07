@@ -8,7 +8,7 @@ nav_order: 6
 
 The following is a list of institutions with MS programs that are known to help prepare students to be teaching faculty. There aren't a lot of these, and each of them handle things differently.
 
-{% assign progs = site.data.ms-programs | sort: 'institutions' %}
+{% assign progs = site.data.ms-programs | sort: 'institution' %}
 
 {% for prog in progs %}
 
