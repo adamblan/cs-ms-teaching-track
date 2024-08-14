@@ -12,7 +12,7 @@ education: BS in Computer Engineering (2019), UW Seattle<br>MS in Computer Scien
 affiliations:
 contract-length: 1 year
 term-load: 1-2
-courses: Systems & Intro Programming
+courses: Intro Systems, Intermediate Systems, Operating Systems & Intro Programming
 department-service: Academic Advising<br>Running our CS Education Seminar<br>Member of Teaching Track Faculty Hiring Committee<br>Member of the CIS Undergraduate Curriculum Committee 
 college-service:
 research:
