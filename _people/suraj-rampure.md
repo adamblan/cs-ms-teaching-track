@@ -1,7 +1,7 @@
 ---
 name: Suraj Rampure
 pronouns: he/him
-photo: ../assets/images/suraj-rampure-square.jpg
+photo: assets/images/suraj-rampure-square.jpg
 role: Lecturer III
 department: Computer Science and Engineering
 institution: University of Michigan
