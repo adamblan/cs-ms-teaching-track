@@ -1,8 +1,8 @@
 ---
 name: Kendra Walther
 pronouns: (she/her/they)
-photo: https://lh4.googleusercontent.com/OLqsloVx_B0SZgxiP3_KiRKXbju20udesCoO_IsP30ttDKt3mojAFryWIseoAJzEJTc6Ew=w1280
-role: Senior Lecturer
+photo: assets/images/kendra-walther.jpg
+role: Associate Professor of Practice
 department: Information Technology Program
 institution: University of Southern California
 term-type: Sem
