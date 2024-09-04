@@ -22,7 +22,7 @@ To help serve our goals, we have information on:
 > A lot of this information is contributed by people who share it with us!
 >
 > - If you teach without a PhD and would like to be featured on the site, please fill out the link here [https://forms.gle/WoNpfg4wn5sTCYZY9](https://forms.gle/WoNpfg4wn5sTCYZY9) 
-> - If you have a job posting or want to add your university to the list of ones who hire without a PhD, reach out to us! (See email at the bottom of the page).
+> - If you have a job posting or want to add your university to the list of ones who hire without a PhD, reach out to us! (see the [posting a job ad](./posting) page).
 >
 > We are grateful for all who want to be part of this site and help make it what it is :)
 
@@ -39,3 +39,9 @@ Please feel free to reach out to us if you have a question!
 I (the person who wrote this blurb) can be reached out to at:
 
 `tqmcgaha` at `seas` dot `upenn.edu`
+
+-----------
+
+## Credits
+Credit goes to the CS PUI (Primarily Undergraduate Institutions) website for inspiring us to make our own website :)
+For those interested, you can find their site here: [https://cs-pui.github.io](https://cs-pui.github.io)
