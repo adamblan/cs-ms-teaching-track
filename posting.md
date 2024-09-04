@@ -18,11 +18,11 @@ There are two ways to do this:
 
 ## Github Pull Request
 
-If you have a job posting ad and can submit a github pull request, please do. This is the preferred way as it helps ease the burden of volunteers maintaining the site and it also allows you to tweak the ad positing to your desire.
+If you have a job posting ad and can submit a github pull request, please do. This is the preferred way as it helps ease the burden of volunteers maintaining the site and it also allows you to tweak the ad posting to your desire.
 
 All you need to do in your pull request is modify the appropriate `jobs-24-25.yml` file, which can be found here: [https://github.com/adamblan/cs-ms-teaching-track/blob/main/_data/jobs-24-25.yml](https://github.com/adamblan/cs-ms-teaching-track/blob/main/_data/jobs-24-25.yml)
 
-As an exmaple, lets say that the `jobs-24-25.yml` file has the following contents:
+As an example, lets say that the `jobs-24-25.yml` file has the following contents:
 
 ```
 - institution: University of Colorado, Boulder
@@ -50,6 +50,10 @@ I would edit the file to look like:
 ```
 
 Please add your ad to the bottom of the yml file and don't worry about messing up. If there is anything that breaks the site a volunteer will fix it since they must approve the edits anyways before it is integrated into the site.
+
+If you need more help for submitting a github pull request, there is some documentation here you may find useful:
+- [Forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+- [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 -----------
 
