@@ -33,6 +33,10 @@ List of jobs posted for the current hiring cycle (2024-2025 hiring cycle) that d
     Job posted on: {{ job.posted }}
     <br>
     {% endif %}
+    {% if job.notes %}
+    Notes: {{ job.notes }}
+    <br>
+    {% endif %}
   </div>
 </div>
 

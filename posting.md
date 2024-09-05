@@ -30,6 +30,7 @@ As an example, lets say that the `jobs-24-25.yml` file has the following content
   posted: 01-August-2024
   title: Assistant Teaching Professor <br> (Told that ad has wrong title, it should be this, not "instructor")
   link: https://jobs.colorado.edu/jobs/JobDetail/?jobId=58252
+  notes: (Told that ad has wrong title, it should be "Assistant Teaching Professor" not "instructor") 
 ```
 
 If I wanted to add the University of Pennsylvania with a job posting from CIS that was posted on October 9th at this link: [https://www.cis.upenn.edu/open-faculty-positions/](https://www.cis.upenn.edu/open-faculty-positions/)
@@ -42,6 +43,7 @@ I would edit the file to look like:
   posted: 01-August-2024
   title: Assistant Teaching Professor <br> (Told that ad has wrong title, it should be this, not "instructor")
   link: https://jobs.colorado.edu/jobs/JobDetail/?jobId=58252
+  notes: (Told that ad has wrong title, it should be "Assistant Teaching Professor" not "instructor") 
 - institution: University of Pennsylvania
   department: Computer and Information Science
   posted: 09-October-2024
