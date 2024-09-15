@@ -1,7 +1,7 @@
 ---
 name: Sharon Solis
 pronouns: she/her
-photo: https://media.licdn.com/dms/image/C5603AQFaK1O3WZKqJw/profile-displayphoto-shrink_800_800/0/1551216520863?e=1725494400&v=beta&t=_4vNvg365ZXhS0q5_EOWCjvtUfkCEuwXs4Azn-cRrX0
+photo: assets/images/sharon_solis.jpg
 role: Lecturer
 department: Computer Science and Statistics & Applied Probability
 institution: University of California, Santa Barbara
