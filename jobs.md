@@ -16,25 +16,25 @@ List of jobs posted for the current hiring cycle (2024-2025 hiring cycle) that d
   <div>
     <h3 class="institution-name">
       {{job.institution}}
-      {% if job.department %}
-      <br>
-      {{ job.department }}
-      {% endif %}
     </h3>
+    {% if job.department %}
+      <b>Department of</b>: <i>{{ job.department }} </i>
+      <br>
+    {% endif %}
     {% if job.title %}
-    Hiring for the position of: {{ job.title }}
+    <b>Hiring for the position of</b>: {{ job.title }}
     <br>
     {% endif %}
     {% if job.link %}
-    Full job posting: <a href="{{ job.link }}"> {{ job.link }} </a>
+    <b>Full job posting</b>: <a href="{{ job.link }}"> {{ job.link }} </a>
     <br>
     {% endif %}
     {% if job.posted %}
-    Job posted on: {{ job.posted }}
+    <b>Job posted on</b>: {{ job.posted }}
     <br>
     {% endif %}
     {% if job.notes %}
-    Notes: {{ job.notes }}
+    <b>Other Notes</b>: {{ job.notes }}
     <br>
     {% endif %}
   </div>
