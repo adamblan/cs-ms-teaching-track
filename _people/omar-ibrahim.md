@@ -1,7 +1,7 @@
 ---
 name: Omar Ibrahim
 pronouns: he/they
-photo: https://www.sigcse2024.org/getProfileImage/omaribrahim/6d61ef40-c87e-42b4-b08d-15f6a13f6633/small.jpg?1710110615000
+photo: assets/images/omar_small.jpg
 role: Lecturer
 department: Computer Science
 institution: University of Illinois Chicago
