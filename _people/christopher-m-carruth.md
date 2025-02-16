@@ -1,7 +1,7 @@
 ---
 name: Christopher M.  Carruth
 pronouns: H/h/h
-photo: https://www.colorado.edu/cmci/sites/default/files/styles/medium/public/people/carruth_circle.png?itok=oRxtG_3d
+photo: assets/images/chris_carruth.png
 role: Teaching Assistant Professor
 department: Information Science
 institution: University of Colorado, Boulder
