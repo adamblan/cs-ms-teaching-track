@@ -23,7 +23,7 @@
 - institution: Stanford University
   titles: Lecturer
 - institution: University of Pennsylvania
-  titles: Assistant / Associate / Full Professor of the Practice; Lecturer
+  titles: Assistant / Associate / Full Professor of the Practice; Lecturer / Senior Lecturer
 - institution: The University of Arizona
   titles: Lecturer
 - institution: Duke University
@@ -82,3 +82,5 @@
   titles: Instructor
 - institution: Rowan University
   titles: Instructor
+- institution: Washington University in St. Louis
+  titles: Lecturer / Senior Lecturer
