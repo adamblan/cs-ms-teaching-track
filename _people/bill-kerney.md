@@ -5,7 +5,7 @@ photo: assets/images/no_image.jpg
 role: Tenured Instructor 
 department: Computer Science
 institution: Clovis Community College & Fresno State
-term-type: Semester
+term-type: Sem
 email: bkerney@hotmail.com
 website: 
 education: BS and MS from UC San Diego
