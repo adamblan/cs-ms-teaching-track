@@ -1,7 +1,7 @@
 ---
 name: Matt Wang
 pronouns: he/him
-photo: https://mattx.wang/img/matt.png
+photo: https://mattx.wang/img/matt.jpg
 role: Assistant Teaching Professor
 department: Computer Science & Engineering
 institution: University of Washington
