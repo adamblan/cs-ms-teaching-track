@@ -1,7 +1,7 @@
 ---
 name: Jack Manhardt
 pronouns:  He/Him
-photo: https://cs.mst.edu/media/academic/cs/images/facultyx2fstaff/20241001%20Jack%20Manhardt(OG).jpg
+photo: assets/images/jack-manhardt.jpg
 role: Assistant Teaching Professor 
 department: Computer Science
 institution: Missouri S&T
