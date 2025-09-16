@@ -20,9 +20,9 @@ There are two ways to do this:
 
 If you have a job posting ad and can submit a github pull request, please do. This is the preferred way as it helps ease the burden of volunteers maintaining the site and it also allows you to tweak the ad posting to your desire.
 
-All you need to do in your pull request is modify the appropriate `jobs-24-25.yml` file, which can be found here: [https://github.com/adamblan/cs-ms-teaching-track/blob/main/_data/jobs-24-25.yml](https://github.com/adamblan/cs-ms-teaching-track/blob/main/_data/jobs-24-25.yml)
+All you need to do in your pull request is modify the appropriate `jobs-25-26.yml` file, which can be found here: [https://github.com/adamblan/cs-ms-teaching-track/blob/main/_data/jobs-25-26.yml](https://github.com/adamblan/cs-ms-teaching-track/blob/main/_data/jobs-25-26.yml)
 
-As an example, lets say that the `jobs-24-25.yml` file has the following contents:
+As an example, lets say that the `jobs-25-26.yml` file has the following contents:
 
 ```
 - institution: University of Colorado, Boulder
