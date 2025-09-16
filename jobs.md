@@ -10,9 +10,6 @@ List of jobs posted for the current hiring cycle (2025-2026 hiring cycle) that d
 
 {% assign jobs = site.data.jobs-25-26 %}
 
-
-None! (yet)
-
 {% for job in jobs %}
 
 <div class="institution">
