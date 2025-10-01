@@ -1,8 +1,8 @@
 ---
 name: Sara Melnick
 pronouns: she/her
-photo: assets/images/no_image.jpg
-role: Lab Instructor
+photo: assets/images/melnick-headshot.jpg
+role: Assistant Teaching Professor
 department:  Computer Science
 institution: Wellesley College
 term-type: Sem
