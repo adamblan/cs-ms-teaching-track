@@ -7,6 +7,7 @@ nav_order: 4
 # Job Postings
 
 List of jobs posted for the current hiring cycle (2026-2027 hiring cycle) that do not require a PhD!
+Notably we do our best to only include jobs that are full time.
 
 {% assign jobs = site.data.jobs-26-27 %}
 
